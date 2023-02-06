@@ -1,10 +1,10 @@
 export const galleryItems = [
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/14/16/43/himilayan-blue-poppy-4202825__340.jpg',
+      'https://cdn.pixabay.com/photo/2014/11/28/01/01/jay-548381__340.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/14/16/43/himilayan-blue-poppy-4202825_1280.jpg',
-    description: 'Hokkaido Flower',
+      'https://cdn.pixabay.com/photo/2014/11/28/01/01/jay-548381_960_720.jpg',
+    description: 'Jay',
   },
   {
     preview:
