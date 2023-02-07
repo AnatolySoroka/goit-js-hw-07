@@ -30,6 +30,7 @@ let lightbox = new SimpleLightbox('.gallery a',
         captionSelector: 'img',
         captionsData: 'alt',
         captionDelay: 250,
+        captionPosition: 'bottom',
     });
 
 
